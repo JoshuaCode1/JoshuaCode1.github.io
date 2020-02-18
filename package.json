@@ -9,11 +9,15 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@vuikit/icons": "^0.8.1",
+    "@vuikit/theme": "^0.8.1",
     "core-js": "^3.6.4",
+    "firebase": "^7.8.2",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
-    "vuex": "^3.1.2"
+    "vuex": "^3.1.2",
+    "vuikit": "^0.8.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
